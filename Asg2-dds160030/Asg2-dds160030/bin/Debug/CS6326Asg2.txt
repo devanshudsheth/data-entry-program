@@ -1,0 +1,3 @@
+Devanshu	Sheth	D	1234 XYZ Street	Apt 124	Richardson	TX	75080	1234567891	john.cole@utdallas.edu	True	2/6/2017	1:27:34 PM	1:28:23 PM
+Jane	Doe		800 West Campbell Road	ECSS 1x.xxx	Richardson	TX	75080	7131427879	jane.doe@utdallas.edu	True	2/6/2017	1:32:58 PM	1:34:03 PM
+John	Doe	X	1234 Renner Road	Apt 123	Richardson	TN	75080	+9199876543211	johndoe@utdallas.edu	True	2/6/2017	12:00:00 AM	7:47:25 PM
